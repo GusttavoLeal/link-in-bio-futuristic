@@ -2,8 +2,8 @@ const lines = [
     "Initializing system...",
     "Loading profile...",
     "Connecting...",
-    "Access granted",
-    "Welcome Gustavo"
+    "System unlocked",
+    "Welcome"
 ];
 
 let i = 0;
