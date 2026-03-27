@@ -2,8 +2,6 @@
 
 A futuristic and interactive link-in-bio page inspired by cyberpunk and matrix aesthetics. Easily showcase your social media, portfolio, and contact links with a modern, animated interface.
 
-![Preview](imagens/photos/profile.png)
-
 ## Features
 
 - **Matrix-style animated background** for a techy, immersive look
@@ -56,7 +54,3 @@ link-in-bio-futuristic/
 
 - Inspired by futuristic UI/UX and matrix effects
 - Developed by Gustavo Leal
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
