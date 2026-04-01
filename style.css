@@ -66,16 +66,16 @@ body::after {
 }
 
 .profile-image img {
-    width: 115px;
-    height: 115px;
+    width: 135px;
+    height: 135px;
     border-radius: 50%;
-    border: 2px solid #00ff88;
+    border: 2px solid #00FFFF;
     animation: glow 2s infinite alternate;
 }
 
 @keyframes glow {
-    from { box-shadow: 0 0 10px #00ff88; }
-    to { box-shadow: 0 0 30px #00ff88; }
+    from { box-shadow: 0 0 10px #00FFFF; }
+    to { box-shadow: 0 0 30px #00FFFF; }
 }
 
 /* GLITCH TITLE */
