@@ -4,11 +4,16 @@
     box-sizing: border-box;
 }
 
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
 body {
     background: black;
     color: #00ff88;
     font-family: 'Share Tech Mono', monospace;
-    overflow-x: hidden;
 }
 
 /* MATRIX */
@@ -16,6 +21,8 @@ body {
     position: fixed;
     top: 0;
     left: 0;
+    width: 100vw;
+    height: 100vh;
     z-index: -1;
 }
 
@@ -33,6 +40,7 @@ body::after {
         transparent 3px
     );
     pointer-events: none;
+    z-index: 1;
 }
 
 /* TERMINAL */
@@ -41,6 +49,7 @@ body::after {
     top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
+    z-index: 3;
 }
 
 .cursor {
@@ -58,6 +67,8 @@ body::after {
     margin: auto;
     text-align: center;
     padding-top: 80px;
+    position: relative;
+    z-index: 2;
 }
 
 /* PROFILE IMAGE */
@@ -172,14 +183,14 @@ h1::after {
     to { opacity:1; transform:translateY(0); }
 }
 
-/* HOVER PROFISSIONAL */
+/* HOVER */
 .link-card:hover {
     box-shadow: 0 0 25px #00ff88;
     transform: translateY(-4px) scale(1.02);
     border: 1px solid #00ff88;
 }
 
-/* EFEITO LUZ PASSANDO */
+/* LUZ PASSANDO */
 .link-card::before {
     content: "";
     position: absolute;
@@ -213,7 +224,6 @@ h1::after {
     z-index: 2;
 }
 
-/* CORES VIVAS */
 .instagram {
     background: linear-gradient(45deg,#ff00cc,#ff0066,#ff9900);
     box-shadow: 0 0 10px #ff00cc;
