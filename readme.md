@@ -32,6 +32,7 @@ link-in-bio-futuristic/
 ```
 
 ## Credits
-
 - Inspired by futuristic UI/UX and matrix effects
-- Developed by Gustavo Leal
+
+# Developer
+Gustavo Leal Mamedio
