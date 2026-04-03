@@ -10,12 +10,21 @@ A futuristic and interactive link-in-bio page inspired by cyberpunk and matrix a
 - **Customizable social media cards** with icons and descriptions
 - **Easy to personalize** with your own links, images, and texts
   
-## Technologies Used
+## Technologies and Resources Used
 
-- HTML5 & CSS3 (with custom fonts and effects)
-- JavaScript (for animations and interactivity)
-- [Font Awesome] for icons
-- Google Fonts: Orbitron, Rajdhani, Share Tech Mono
+This project was developed using modern web development technologies, with a focus on visual design, interactivity, and user experience.
+
+**Technologies:**
+
+* HTML5
+* CSS3 (with custom fonts and visual effects)
+* JavaScript (for animations and interactivity)
+
+**Libraries and External Resources:**
+
+* Font Awesome (icons)
+* Google Fonts (Orbitron, Rajdhani, Share Tech Mono)
+
   
 ## Folder Structure
 
@@ -30,9 +39,5 @@ link-in-bio-futuristic/
 │   └── photos/
 └── readme.md
 ```
-
-## Credits
-- Inspired by futuristic UI/UX and matrix effects
-
 # Developer
 Gustavo Leal Mamedio
