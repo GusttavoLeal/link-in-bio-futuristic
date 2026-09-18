@@ -1,35 +1,29 @@
 # Link Bio Futuristic
 
-A futuristic and interactive link-in-bio page inspired by cyberpunk and matrix aesthetics. Easily showcase your social media, portfolio, and contact links with a modern, animated interface.
+Página de links personalizada com estética futurista inspirada no universo cyberpunk e Matrix, desenvolvida com foco em interatividade, animações e experiência do usuário.
 
-## Features
+## Funcionalidades
 
-- **Matrix-style animated background** for a techy, immersive look
-- **Terminal intro animation** for a unique user experience
-- **Responsive design** for all devices
-- **Customizable social media cards** with icons and descriptions
-- **Easy to personalize** with your own links, images, and texts
-  
-## Technologies and Resources Used
+* Fundo animado inspirado no estilo Matrix
+* Animação de introdução em terminal
+* Interface responsiva
+* Cards personalizados para redes sociais
+* Ícones e descrições para cada link
+* Estrutura fácil de personalizar
 
-This project was developed using modern web development technologies, with a focus on visual design, interactivity, and user experience.
-
-**Technologies:**
+## Tecnologias
 
 * HTML5
-* CSS3 (with custom fonts and visual effects)
-* JavaScript (for animations and interactivity)
+* CSS3
+* JavaScript
+* Font Awesome
+* Google Fonts
 
-**Libraries and External Resources:**
+## Estrutura do Projeto
 
-* Font Awesome (icons)
-* Google Fonts (Orbitron, Rajdhani, Share Tech Mono)
-
-  
-## Folder Structure
-
-```
+```text
 link-in-bio-futuristic/
+
 ├── index.html
 ├── style.css
 ├── script.js
@@ -39,5 +33,8 @@ link-in-bio-futuristic/
 │   └── photos/
 └── readme.md
 ```
-# Developer
-Gustavo Leal Mamedio
+
+## Desenvolvedor
+
+**Gustavo Leal Mamedio**
+
