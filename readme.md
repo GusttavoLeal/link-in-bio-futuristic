@@ -34,7 +34,7 @@ link-in-bio-futuristic/
 └── readme.md
 ```
 
-## Desenvolvedor
-
-**Gustavo Leal Mamedio**
+<p align="center">
+  <strong><big>Desenvolvido por Gustavo Leal — Full Stack Developer</big></strong>
+</p>
 
